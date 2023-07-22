@@ -353,7 +353,7 @@ public class Editar extends AppCompatActivity {
                                             });
 
                                     // Actualizar la foto de perfil en el ImageView
-                                    Picasso.get().load(downloadUri).resize(300, 300) // Establecer el tamaño deseado
+                                    Picasso.get().load(downloadUri).resize(300, 300) // Establece el tamaño deseado
                                             .centerCrop().into(fotoImageView);
                                 }
                             }).addOnFailureListener(new OnFailureListener() {
