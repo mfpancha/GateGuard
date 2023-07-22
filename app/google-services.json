@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "538505313431",
+    "project_id": "gateguard-3f4c0",
+    "storage_bucket": "gateguard-3f4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538505313431:android:567d3237bbc1bbb9f67dd2",
+        "android_client_info": {
+          "package_name": "com.example.gateguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538505313431-cgj0ns08163cnrfuc67dua4f5qu30u1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gateguard",
+            "certificate_hash": "dc3ed30f0092a534cc38b9e2ca1bb74363973156"
+          }
+        },
+        {
+          "client_id": "538505313431-hbg18nsoon53mjmlm6jicgnvj0h4378a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsdRhng8mYstmJLC_GiYLi82COkoBA8aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538505313431-dcgsfg7tbd88gatq64lpek5hbcs56t5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
